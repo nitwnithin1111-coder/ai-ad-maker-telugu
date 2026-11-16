@@ -1,0 +1,17 @@
+{
+  "name": "AI Ad Maker Telugu",
+  "short_name": "AI Ad Maker",
+  "description": "Telugu-first AI creative studio crafting high-converting video ads, posters, reels, and business websites in 24 hours.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07060d",
+  "theme_color": "#07060d",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
